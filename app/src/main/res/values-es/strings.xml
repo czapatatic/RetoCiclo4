@@ -4,7 +4,7 @@
     <string name="text_Password">Contraseña</string>
     <string name="text_Login">Ingresar</string>
     <string name="text_Exit">Salir</string>
-    <string name="hint_username">email@example.com</string>
+    <string name="hint_username">correo@example.com</string>
     <string name="hint_password">Tu contraseña aquí</string>
     <string name="text_welcome">Bienvenido</string>
     <string name="text_error">ERROR</string>
